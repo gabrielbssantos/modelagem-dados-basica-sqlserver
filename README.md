@@ -17,6 +17,6 @@ Para desenvolver os conceitos de modelagem vamos utilizar um exemplo fictício d
 ## Modelagem do Banco de Dados
 
 ### Modelo conceitual
-![Modelo Conceitual](https://github.com/gabrielbssantos/modelagem-dados-basica-sqlserver/images/conceptual-model.png?raw=true)
+![Modelo Conceitual](https://github.com/gabrielbssantos/modelagem-dados-basica-sqlserver/blob/main/images/conceptual-model.drawio.png?raw=true)
 ### Modelo lógico
 ### Modelo físico
