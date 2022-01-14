@@ -17,6 +17,13 @@ Para desenvolver os conceitos de modelagem vamos utilizar um exemplo fictício d
 ## Modelagem do Banco de Dados
 
 ### Modelo conceitual
+Com o propósito de tornar mais tangível o foi captado durante as entrevistas com o cliente, o primeiro passo é desenvolver um modelo conceitual do banco de dados, onde já conseguimos identificar as entidades que constituiem o problema e a regra de negócio que deve ser aplicada ao banco de dados.
+
 ![Modelo Conceitual](https://github.com/gabrielbssantos/modelagem-dados-basica-sqlserver/blob/main/images/conceptual-model.drawio.png?raw=true)
+
 ### Modelo lógico
+Ok, definido as entidades e relação entre elas dentro da regra de negócio, o passo seguinte é desenhar um modelo lógico do banco de dados. Aqui vamos incluir mais detalhe para a implementação do projeto, como nome das tabelas seus campos e tipo de dados. Também pode conter restrições como por exemplo o campo não permitir valores nulos. A ideia do modelo lógico é realmente servir de mapa para a etapa seguinte (passar esse desenho para comandos SQL e executar criando o banco de dados fisicamnte).
+
+![Modelo Conceitual](https://github.com/gabrielbssantos/modelagem-dados-basica-sqlserver/blob/main/images/logical-model.drawio.png?raw=true)
+
 ### Modelo físico
